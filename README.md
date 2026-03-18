@@ -3,11 +3,11 @@ Trying to Decode the Golden Record found on the Voyager spacecraft...
 The resluts are not perfect, but I tried my best
 ## Here is couple of samples I decoded
 
-![Earth](Decoded_Images\golden_record_014.png)
-![Earth](Decoded_Images\golden_record_012.png)
-![Earth](Decoded_Images\golden_record_005.png)
-![Earth](Decoded_Images\golden_record_003.png)
-![Earth](Decoded_Images\golden_record_001.png)
+![Earth](Decoded_Images/golden_record_014.png)
+![Earth](Decoded_Images/golden_record_012.png)
+![Earth](Decoded_Images/golden_record_005.png)
+![Earth](Decoded_Images/golden_record_003.png)
+![Earth](Decoded_Images/golden_record_001.png)
 
 
 # Acknowledgments
